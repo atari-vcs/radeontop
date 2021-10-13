@@ -1,3 +1,10 @@
+radeontop (1.3-1+apertis0) atari; urgency=medium
+
+  * Import from Debian bullseye.
+  * Set component to development.
+
+ -- Apertis package maintainers <packagers@lists.apertis.org>  Wed, 13 Oct 2021 09:24:18 +0100
+
 radeontop (1.3-1) unstable; urgency=medium
 
   * New upstream release. (Closes: #978095)
